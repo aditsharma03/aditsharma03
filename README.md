@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adit Sharma
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Adit Sharma
 ===================================================================================================================================
 
 Computer Enthusiast
@@ -37,7 +37,7 @@ Currently pursuing B. Tech, I've been learning to code since high school and hav
                       
 ### Badges 
 <b>My GitHub Stats</b><br>
-<a href="http://www.github.com/aditsharma03"><img src="https://github-readme-stats.vercel.app/api?username=aditsharma03&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&show_icons=true" alt="aditsharma03's GitHub stats"/> </a>
+<a href="http://www.github.com/aditsharma03"><img src="https://github-readme-stats.vercel.app/api?username=aditsharma03&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&show_icons=true" alt="aditsharma03's GitHub stats"/></a>
                       
 <a href="http://www.github.com/aditsharma03"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aditsharma03&stroke=ffffff&background=0f172a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/></a>
                   
