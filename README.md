@@ -8,7 +8,7 @@ Currently pursuing B. Tech, I've been learning to code since high school and hav
 
 *   ✉️  You can contact me at [aditsharma1203@gmail.com](mailto:aditsharma1203@gmail.com)
 *   🧠  I'm learning DSA, OOPS and Java
-*   ⚡  I also like to play Tennis
+*   ⚡  I also like to play Tennis<br>
 <a href="https://www.github.com/aditsharma03" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/aditsharma03?logo=github&style=for-the-badge&color=facc15&labelColor=0f172a" /></a>
                   
