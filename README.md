@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently into the Vth semester(B.Tech CSE)<br>🤝 I’m looking for help with getting started with opensource contributions<br>🌱 I’m currently learning the MERN stack and the Rust programming language<br>💬 Ask me about anything<br>⚡  I use arch btw!
+🔭 I’m currently into the VIIth semester(B.Tech CSE)<br>🤝 I’m looking forward to form new connections.<br>🌱 I’m currently learning MERN stack and Machine Learning.<br>💬 Ask me about anything<br>⚡  I use arch btw!
 
 
 # 💻 Tech Stack:
